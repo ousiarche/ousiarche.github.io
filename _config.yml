@@ -4,9 +4,9 @@
 
 # Site
 title: Ousiarche
-subtitle: ''
-description: ''
-keywords:
+subtitle: '이해를 위한 글쓰기'
+description: '이해한 개념을 제 언어로 정리한 공간입니다'
+keywords: tech, web development, 웹 개발, 공무원, 컴퓨터일반, 정보보호론
 author: Ousiarche
 language: ko
 timezone: 'Asia/Seoul'
