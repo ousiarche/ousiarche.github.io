@@ -105,6 +105,7 @@ menu:
   home: / || fa fa-home
   computer: /categories/computer/ || fa-solid fa-computer
   information: /categories/information/ || fa-solid fa-square-binary
+  web: /categories/web/ || fa-solid fa-w
   #about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
   # categories: /categories/ || fa fa-th
