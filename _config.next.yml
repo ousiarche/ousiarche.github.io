@@ -103,10 +103,10 @@ open_graph:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  computer: /computer/ || fa-solid fa-computer
-  information: /information/ || fa-solid fa-square-binary
+  computer: /categories/computer/ || fa-solid fa-computer
+  information: /categories/information/ || fa-solid fa-square-binary
   #about: /about/ || fa fa-user
-  # tags: /tags/ || fa fa-tags
+  tags: /tags/ || fa fa-tags
   # categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
   # schedule: /schedule/ || fa fa-calendar
