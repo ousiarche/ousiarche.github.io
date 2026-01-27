@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ousiarche
+title: Schemarche
 subtitle: '이해를 위한 글쓰기'
 description: '이해한 개념을 제 언어로 정리한 공간입니다'
 keywords: tech, web development, 웹 개발, 공무원, 컴퓨터일반, 정보보호론
-author: Ousiarche
+author: schemarche
 language: ko
 timezone: 'Asia/Seoul'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ousiarche.github.io
+url: https://schemarche.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
